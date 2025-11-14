@@ -1,0 +1,1148 @@
+﻿1
+00:00:12,020 --> 00:00:13,933
+[Adapted from the novel Tomb of Fallen Gods by Chen Dong, published by Yuewen Group’s Qidian Reading.]
+
+2
+00:00:14,711 --> 00:00:16,711
+(Copyright Notice)
+
+3
+00:00:19,240 --> 00:00:22,639
+♪ Awakening from ten-thousand-year silence ♪
+
+4
+00:00:22,800 --> 00:00:26,039
+♪ Soul returns, shaking heaven and earth ♪
+
+5
+00:00:26,440 --> 00:00:30,039
+♪ Blood stains the azure heavenly path ♪
+
+6
+00:00:30,040 --> 00:00:33,959
+♪ Sword shatters primordial wings ♪
+
+7
+00:00:50,080 --> 00:00:53,239
+♪ Lingering snow cloaks cold tyrant bones ♪
+
+8
+00:00:53,760 --> 00:00:56,759
+♪ Scoured the mortal world for the way back ♪
+
+9
+00:00:57,320 --> 00:01:00,319
+♪ Divine jade flower whispers farewell ♪
+
+10
+00:01:01,080 --> 00:01:04,079
+♪ Blooming on the lost path ♪
+
+11
+00:01:04,560 --> 00:01:07,999
+♪ Seven Demon Blades, Taiji Diagram ♪
+
+12
+00:01:08,320 --> 00:01:11,599
+♪ Thousand armies' blood dyes Jincheng banners ♪
+
+13
+00:01:11,920 --> 00:01:14,919
+♪ Why covet fame for good or evil? ♪
+
+14
+00:01:15,480 --> 00:01:22,959
+♪ Laugh at my life returning nowhere ♪
+
+15
+00:01:24,600 --> 00:01:27,159
+♪ With one sword, I carve anew ♪
+
+16
+00:01:27,160 --> 00:01:29,799
+♪ Hidden treasure in the heavenly path ♪
+
+17
+00:01:30,080 --> 00:01:31,839
+♪ Star seas surge ♪
+
+18
+00:01:31,840 --> 00:01:33,639
+♪ War souls howl through clouds ♪
+
+19
+00:01:33,640 --> 00:01:37,079
+♪ Blood debts from the chess game ♪
+
+20
+00:01:37,480 --> 00:01:40,999
+♪ Rain turns all white-haired, shattering calamity ♪
+
+21
+00:01:41,000 --> 00:01:44,399
+♪ Blaze through myriad passes ♪
+
+22
+00:01:44,600 --> 00:01:48,239
+♪ Sword scorches eons, blood dyes heaven-felling ♪
+
+23
+00:01:48,240 --> 00:01:51,839
+♪ When we return from conquest ♪
+
+24
+00:01:51,840 --> 00:01:59,039
+♪ Before old friends' stele, pour wine and bow alone ♪
+
+25
+00:02:00,576 --> 00:02:02,863
+- TOMB OF FALLEN GODS S3 -
+
+26
+00:02:04,690 --> 00:02:07,343
+Episode 16
+[Arc of the Eastern Mysterious Treasures]
+FANSUB: H-DONGHUA™
+
+27
+00:02:12,360 --> 00:02:15,759
+Young man, we meet again.
+
+28
+00:02:18,440 --> 00:02:19,039
+Senior—
+
+29
+00:02:19,120 --> 00:02:20,120
+You...
+
+30
+00:02:21,720 --> 00:02:23,079
+No need to worry.
+
+31
+00:02:23,280 --> 00:02:24,959
+I mean no harm.
+
+32
+00:02:25,560 --> 00:02:28,799
+Lady Long, how fares your grandfather?
+
+33
+00:02:28,960 --> 00:02:33,239
+Decades since I last saw that rascal.
+
+34
+00:02:35,600 --> 00:02:38,639
+I am the ancestral forefather of Eastern Chu's emperor.
+
+35
+00:02:38,640 --> 00:02:42,039
+Met your grandfather a few times.
+
+36
+00:02:43,600 --> 00:02:45,199
+This junior pays respects.
+
+37
+00:02:46,400 --> 00:02:52,479
+You must already know a treasure will emerge in Pingyang City.
+
+38
+00:02:53,200 --> 00:02:56,599
+Remember the ancient tomb beneath the palace?
+
+39
+00:02:56,600 --> 00:02:57,600
+Chennan,
+
+40
+00:02:58,320 --> 00:03:01,959
+we explored it together once.
+
+41
+00:03:02,440 --> 00:03:07,839
+If a treasure truly appears, it must come from there.
+
+42
+00:03:08,040 --> 00:03:15,879
+But when I tried to retrieve it, I found a new barrier sealing it.
+
+43
+00:03:16,480 --> 00:03:17,599
+Divine,
+
+44
+00:03:18,440 --> 00:03:19,440
+demonic—
+
+45
+00:03:20,400 --> 00:03:22,199
+demon reborn
+
+46
+00:03:22,680 --> 00:03:24,959
+or true self reborn?
+
+47
+00:03:25,680 --> 00:03:27,719
+I tried forcing entry,
+
+48
+00:03:28,120 --> 00:03:30,519
+but there's always a higher sky.
+
+49
+00:03:32,000 --> 00:03:33,759
+With just words, senior—
+
+50
+00:03:37,360 --> 00:03:41,599
+Back then I had a premonition my end might be near.
+
+51
+00:03:41,920 --> 00:03:43,719
+approaching.
+
+52
+00:03:46,080 --> 00:03:49,279
+So today, I come with a request.
+
+53
+00:03:49,880 --> 00:03:51,199
+When the treasure emerges,
+
+54
+00:03:51,520 --> 00:03:54,879
+I hope you'll wield Hou Yi's Bow and lend me aid
+
+55
+00:03:55,160 --> 00:03:59,359
+to prevent chaos destroying Eastern Chu's royal house.
+
+56
+00:03:59,677 --> 00:03:59,970
+Hm
+
+57
+00:04:00,841 --> 00:04:02,279
+Fine words—
+
+58
+00:04:03,000 --> 00:04:04,519
+protecting the royals is fake,
+
+59
+00:04:04,920 --> 00:04:06,999
+extending life with the treasure is real.
+
+60
+00:04:08,280 --> 00:04:09,439
+This junior's realm is lacking—
+
+61
+00:04:09,680 --> 00:04:11,319
+hard to contend with true giants.
+
+62
+00:04:12,200 --> 00:04:13,839
+Don't sell yourself short.
+
+63
+00:04:14,160 --> 00:04:16,359
+If that arrow tastes your blood,
+
+64
+00:04:16,680 --> 00:04:18,439
+even sixth-rank experts
+
+65
+00:04:18,720 --> 00:04:19,279
+[Haha]
+
+66
+00:04:19,720 --> 00:04:21,359
+Senior flatters me.
+
+67
+00:04:24,000 --> 00:04:26,239
+If you aid me fully,
+
+68
+00:04:31,360 --> 00:04:35,999
+afterward this divine bow is yours forever.
+
+69
+00:04:36,440 --> 00:04:37,440
+Deal?
+
+70
+00:04:37,520 --> 00:04:40,119
+So the old fox took Hou Yi's Bow for this.
+
+71
+00:04:40,400 --> 00:04:41,479
+All planned.
+
+72
+00:04:48,080 --> 00:04:51,879
+Tomorrow night, my men will escort you to the palace.
+
+73
+00:04:52,040 --> 00:04:55,639
+You won't miss it.
+
+74
+00:05:03,880 --> 00:05:05,119
+Finally gone.
+
+75
+00:05:05,480 --> 00:05:07,959
+Knew that old fart was up to no good.
+
+76
+00:05:09,120 --> 00:05:10,199
+You'll really go?
+
+77
+00:05:10,720 --> 00:05:12,039
+Enemies everywhere now.
+
+78
+00:05:12,360 --> 00:05:13,839
+With Hou Yi's Bow back,
+
+79
+00:05:14,200 --> 00:05:15,519
+all their arts
+
+80
+00:05:15,920 --> 00:05:17,079
+can't stop one arrow.
+
+81
+00:05:17,680 --> 00:05:19,399
+Plus the tomb's secret—
+
+82
+00:05:20,000 --> 00:05:21,239
+I want answers.
+
+83
+00:05:21,680 --> 00:05:23,239
+No reason to refuse.
+
+84
+00:05:24,190 --> 00:05:26,735
+[Ancient Castle of Worship]
+
+85
+00:05:26,760 --> 00:05:28,639
+Dear Jones,
+
+86
+00:05:28,920 --> 00:05:29,999
+my friend—
+
+87
+00:05:31,000 --> 00:05:33,119
+your life of kindness and virtue
+
+88
+00:05:33,840 --> 00:05:35,679
+the Lord will surely favor you.
+
+89
+00:05:36,920 --> 00:05:41,399
+May you in heaven enjoy peace and joy.
+
+90
+00:06:13,080 --> 00:06:15,479
+Don't be afraid, old friend.
+
+91
+00:06:15,760 --> 00:06:18,599
+I still have unfinished wishes in the mortal realm.
+
+92
+00:06:19,160 --> 00:06:21,759
+The great War God sent me back.
+
+93
+00:06:22,560 --> 00:06:25,079
+This must never be revealed,
+
+94
+00:06:25,520 --> 00:06:27,296
+[Jones — Sixth-Stage Cultivation Realm] or [Jones — Sixth-Stage Cultivation Realm]
+
+95
+00:06:27,320 --> 00:06:29,919
+the War God will rain divine punishment.
+
+96
+00:06:35,170 --> 00:06:36,176
+[Imperial Decree: Hall of Radiant Light]
+
+97
+00:06:36,200 --> 00:06:36,999
+Your Holiness—
+[Imperial Decree: Hall of Radiant Light]
+
+98
+00:06:38,240 --> 00:06:40,119
+Warriors Camu and Amethyst
+
+99
+00:06:40,440 --> 00:06:42,599
+both mysteriously revived a day after death.
+
+100
+00:06:42,840 --> 00:06:44,999
+I've ordered their families to keep silent.
+
+101
+00:06:45,640 --> 00:06:46,959
+Dismissed.
+
+102
+00:06:47,520 --> 00:06:48,520
+Yes.
+
+103
+00:06:51,400 --> 00:06:53,279
+Could it truly be divine descent?
+
+104
+00:06:54,280 --> 00:06:55,599
+If so,
+
+105
+00:06:56,240 --> 00:06:58,519
+why not within the church?
+
+106
+00:07:06,880 --> 00:07:07,880
+Move out—
+
+107
+00:07:07,920 --> 00:07:08,920
+to Eastern Chu.
+
+108
+00:07:09,510 --> 00:07:10,643
+[Camilla — Sixth-Stage Cultivation Realm]
+
+109
+00:07:14,600 --> 00:07:15,600
+We're doomed.
+
+110
+00:07:15,800 --> 00:07:16,959
+Kept you out so late again.
+
+111
+00:07:17,600 --> 00:07:20,279
+If those old fogies find out, I'm done for.
+
+112
+00:07:22,960 --> 00:07:24,599
+Big Sis Trouble is the best!
+
+113
+00:07:25,000 --> 00:07:27,519
+Worst case, we yank their beards again.
+
+114
+00:07:27,520 --> 00:07:28,520
+Learning fast.
+
+115
+00:07:32,800 --> 00:07:34,239
+Big Sis Trouble—look!
+
+116
+00:07:34,320 --> 00:07:36,079
+Three flying people!
+
+117
+00:07:39,160 --> 00:07:40,279
+Flying unaided.
+
+118
+00:07:43,480 --> 00:07:46,639
+I sense pure immortal spirit qi.
+
+119
+00:07:47,880 --> 00:07:49,279
+So strange—
+
+120
+00:07:49,440 --> 00:07:52,919
+all three puppets of some strange force.
+
+121
+00:07:52,920 --> 00:07:54,399
+Not alive.
+
+122
+00:07:55,160 --> 00:07:55,679
+Run—
+
+123
+00:07:55,720 --> 00:07:56,720
+back to Freedom City!
+
+124
+00:08:04,240 --> 00:08:04,959
+Bad—
+
+125
+00:08:05,080 --> 00:08:06,439
+what are they doing?
+
+126
+00:08:18,520 --> 00:08:19,520
+Catch her!
+
+127
+00:09:07,000 --> 00:09:08,359
+Big players.
+
+128
+00:09:08,960 --> 00:09:10,439
+For the master's plan,
+
+129
+00:09:10,840 --> 00:09:12,919
+best not complicate things.
+
+130
+00:09:18,080 --> 00:09:19,559
+Chenxi, Chenxi—
+
+131
+00:09:21,960 --> 00:09:23,839
+I just had a weird dream.
+
+132
+00:09:24,200 --> 00:09:25,319
+Like
+
+133
+00:09:25,680 --> 00:09:28,519
+I flew up and chased those three away.
+
+134
+00:09:29,160 --> 00:09:30,839
+Big Sis Trouble—
+
+135
+00:09:30,840 --> 00:09:33,079
+isn't that toward Eastern Chu?
+
+136
+00:09:34,000 --> 00:09:35,439
+I'll take you back to the academy first.
+
+137
+00:09:36,157 --> 00:09:39,663
+[Eastern Chu Kingdom — Royal Library]
+
+138
+00:09:46,280 --> 00:09:50,919
+You know why I brought you in only at night?
+
+139
+00:09:52,120 --> 00:09:54,639
+Senior wants to explore the tomb again?
+
+140
+00:09:57,600 --> 00:10:01,319
+Seems you read my mind.
+
+141
+00:10:03,000 --> 00:10:04,559
+If you honor your promise,
+
+142
+00:10:05,000 --> 00:10:06,559
+I'll give everything.
+
+143
+00:10:18,880 --> 00:10:20,279
+Come.
+
+144
+00:10:34,280 --> 00:10:35,959
+Mystical, right?
+
+145
+00:10:36,400 --> 00:10:39,999
+Back then it lowered my guard—
+
+146
+00:10:40,000 --> 00:10:41,639
+nearly died.
+
+147
+00:10:49,760 --> 00:10:51,839
+You carry god-demon blood—
+
+148
+00:10:51,840 --> 00:10:53,839
+might see more.
+
+149
+00:10:54,440 --> 00:10:56,639
+I'll channel some power to you.
+
+150
+00:10:56,920 --> 00:10:59,599
+See what's wrong in this tomb.
+
+151
+00:10:59,840 --> 00:11:00,840
+Senior—
+
+152
+00:11:01,200 --> 00:11:02,279
+this might—
+
+153
+00:11:02,480 --> 00:11:04,039
+You think
+
+154
+00:11:04,400 --> 00:11:06,239
+Hou Yi's Bow is easy to claim?
+
+155
+00:11:06,760 --> 00:11:08,519
+Then come!
+
+156
+00:11:25,840 --> 00:11:26,840
+Kill!
+
+157
+00:11:27,680 --> 00:11:29,079
+Kill!
+
+158
+00:11:29,480 --> 00:11:30,480
+Kill!
+
+159
+00:11:59,920 --> 00:12:00,920
+Hallucinations—
+
+160
+00:12:01,080 --> 00:12:02,080
+illusions—
+
+161
+00:12:02,320 --> 00:12:03,599
+all fake!
+
+162
+00:12:56,520 --> 00:12:57,520
+This is—
+
+163
+00:13:07,320 --> 00:13:08,679
+Divine nature,
+
+164
+00:13:09,040 --> 00:13:10,319
+demonic nature—
+
+165
+00:13:10,800 --> 00:13:12,839
+slay the demon within,
+
+166
+00:13:13,440 --> 00:13:15,599
+sealed myself here.
+
+167
+00:13:36,320 --> 00:13:37,320
+Divine nature,
+
+168
+00:13:37,840 --> 00:13:38,840
+demonic nature—
+
+169
+00:13:39,360 --> 00:13:40,360
+ancient battlefield,
+
+170
+00:13:40,880 --> 00:13:41,880
+mysterious figure—
+
+171
+00:13:42,280 --> 00:13:43,479
+Anything else?
+
+172
+00:13:43,880 --> 00:13:45,079
+A jade palm—
+
+173
+00:13:45,760 --> 00:13:47,559
+profound and wondrous.
+
+174
+00:13:48,200 --> 00:13:51,359
+Could it be the emerging treasure?
+
+175
+00:13:54,520 --> 00:13:57,479
+Last full moon, signs appeared.
+
+176
+00:13:58,000 --> 00:13:59,239
+If no surprises, if no surprises—
+
+177
+00:13:59,360 --> 00:14:01,799
+five days from now, another full moon—
+
+178
+00:14:02,160 --> 00:14:03,959
+the treasure will emerge.
+
+179
+00:14:04,440 --> 00:14:06,359
+It will shake the eight directions.
+
+180
+00:14:06,720 --> 00:14:08,999
+Countless experts will swarm here.
+
+181
+00:14:09,520 --> 00:14:12,479
+I’ll pass Hou Yi's Bow to you now,
+
+182
+00:14:12,800 --> 00:14:16,319
+just in case something happens when the treasure emerges.
+
+183
+00:14:21,800 --> 00:14:24,679
+Also, stop staying at the inn.
+
+184
+00:14:25,040 --> 00:14:27,839
+I’ve prepared our old spot for you.
+
+185
+00:14:31,320 --> 00:14:32,320
+[Hm]
+
+186
+00:14:33,840 --> 00:14:35,119
+Same old place,
+
+187
+00:14:35,680 --> 00:14:38,359
+but I’m no longer the man I once was.
+
+188
+00:14:42,440 --> 00:14:43,079
+Dream Fairy—
+
+189
+00:14:43,160 --> 00:14:44,399
+[Eastern Chu Kingdom — Imperial Royal Garden]
+I’ve booked the entire Drunken Immortal Pavilion.
+
+190
+00:14:44,560 --> 00:14:45,319
+You must grace the banquet.
+[Eastern Chu Kingdom — Imperial Royal Garden]
+
+191
+00:14:45,320 --> 00:14:45,879
+You must grace the banquet!
+
+192
+00:14:45,903 --> 00:14:46,176
+[Eastern Chu Kingdom — Imperial Royal Garden]
+
+193
+00:14:46,200 --> 00:14:46,799
+Scram!
+[Eastern Chu Kingdom — Imperial Royal Garden]
+
+194
+00:14:46,840 --> 00:14:48,759
+The Dream Fairy should visit my chancellor’s mansion instead.
+[Eastern Chu Kingdom — Imperial Royal Garden]
+
+195
+00:14:48,880 --> 00:14:49,999
+I’ll think about it.
+
+196
+00:14:50,120 --> 00:14:51,279
+Then, Your Highness the Eldest Princess—
+
+197
+00:14:51,280 --> 00:14:52,319
+farewell for now.
+
+198
+00:14:54,480 --> 00:14:55,519
+You’ve had a rough time, junior sister.
+
+199
+00:14:58,480 --> 00:14:59,480
+Hou Yi's Bow...
+
+200
+00:14:59,600 --> 00:15:01,559
+So Chennan has already met the ancestor.
+
+201
+00:15:03,000 --> 00:15:03,479
+Dream Fairy,
+
+202
+00:15:03,840 --> 00:15:04,840
+what are you doing here?
+
+203
+00:15:05,080 --> 00:15:07,599
+Others can come, why can’t I?
+
+204
+00:15:08,040 --> 00:15:09,079
+Plum blossoms in the twelfth month—
+
+205
+00:15:09,320 --> 00:15:10,439
+anyone may admire them.
+
+206
+00:15:10,680 --> 00:15:11,079
+Heh.
+
+207
+00:15:11,280 --> 00:15:13,119
+Our spar that day
+
+208
+00:15:13,400 --> 00:15:14,400
+still fresh in my mind.
+
+209
+00:15:14,440 --> 00:15:16,679
+I’d love another round with the Dream Fairy.
+
+210
+00:15:17,040 --> 00:15:17,839
+Nonsense.
+
+211
+00:15:18,560 --> 00:15:19,560
+Or do you really mean it?
+
+212
+00:15:23,880 --> 00:15:24,559
+Come on!
+
+213
+00:15:30,800 --> 00:15:32,559
+How do you have the Heaven-Piercing Halberd?
+
+214
+00:15:33,560 --> 00:15:35,799
+Took it from that little Hun Tian devil, of course.
+
+215
+00:15:37,720 --> 00:15:38,999
+I see.
+
+216
+00:15:39,440 --> 00:15:40,239
+You used me.
+
+217
+00:15:41,720 --> 00:15:42,720
+What are you saying?
+
+218
+00:15:42,840 --> 00:15:45,439
+Didn’t you run the moment you saw me?
+
+219
+00:15:45,480 --> 00:15:47,759
+So now you want to team up against him?
+
+220
+00:15:48,640 --> 00:15:49,999
+He’s tied to the Path of Annihilation—
+
+221
+00:15:50,080 --> 00:15:51,559
+our common enemy.
+
+222
+00:15:52,320 --> 00:15:54,479
+And the heir of Annihilation is about to appear.
+
+223
+00:15:55,880 --> 00:15:57,959
+With Eastern Chu in chaos over the treasure,
+
+224
+00:15:58,280 --> 00:16:01,039
+teaming up is our best move.
+
+225
+00:16:02,040 --> 00:16:03,639
+Righteous and demonic paths are mortal foes—
+
+226
+00:16:04,360 --> 00:16:05,719
+you have no reason to refuse.
+
+227
+00:16:07,480 --> 00:16:09,159
+But if you get the chance to kill me,
+
+228
+00:16:09,640 --> 00:16:11,039
+you won’t hesitate.
+
+229
+00:16:15,600 --> 00:16:16,999
+Then for half a year,
+
+230
+00:16:17,360 --> 00:16:18,319
+no fighting between us.
+
+231
+00:16:18,720 --> 00:16:19,239
+Deal?
+
+232
+00:16:20,080 --> 00:16:20,519
+Fine.
+
+233
+00:16:23,560 --> 00:16:25,159
+Beautiful Lady Longwu,
+
+234
+00:16:25,680 --> 00:16:27,399
+we meet again.
+
+235
+00:16:29,120 --> 00:16:30,039
+It’s you.
+
+236
+00:16:30,800 --> 00:16:31,519
+Lady Long—
+
+237
+00:16:32,120 --> 00:16:33,599
+still have the ice lotus I gave you?
+
+238
+00:16:36,520 --> 00:16:37,879
+This popsicle is delicious!
+
+239
+00:16:40,280 --> 00:16:42,719
+Hundred-flower fragrance, so refreshing.
+
+240
+00:16:42,880 --> 00:16:44,399
+Got another?
+
+241
+00:16:45,400 --> 00:16:45,999
+Gone.
+
+242
+00:16:46,560 --> 00:16:46,919
+[Aww]
+
+243
+00:16:46,920 --> 00:16:47,920
+Don’t be sad, miss.
+
+244
+00:16:48,800 --> 00:16:49,800
+I promised—
+
+245
+00:16:49,920 --> 00:16:50,799
+next time we meet,
+
+246
+00:16:51,480 --> 00:16:54,039
+I’d give you a lotus that never wilts.
+
+247
+00:16:54,880 --> 00:16:55,439
+Thanks,
+
+248
+00:16:55,760 --> 00:16:56,760
+but no need.
+
+249
+00:16:58,240 --> 00:16:59,240
+Lady Long—
+
+250
+00:17:01,840 --> 00:17:02,559
+Gorgeous!
+
+251
+00:17:02,800 --> 00:17:03,800
+I love it.
+
+252
+00:17:03,960 --> 00:17:04,960
+Chu Yu!
+
+253
+00:17:05,560 --> 00:17:06,239
+Sister Longwu—
+
+254
+00:17:06,440 --> 00:17:07,959
+don’t trust this huge pervert!
+
+255
+00:17:08,320 --> 00:17:11,040
+He gives gifts to every pretty girl he meets, but
+
+256
+00:17:11,360 --> 00:17:13,560
+they all get rejected.
+
+257
+00:17:14,200 --> 00:17:15,639
+My heart is sincere—
+
+258
+00:17:16,000 --> 00:17:17,479
+just often misunderstood.
+
+259
+00:17:18,200 --> 00:17:19,799
+Since Princess Yu has business with Lady Long,
+
+260
+00:17:20,320 --> 00:17:21,519
+I’ll take my leave.
+
+261
+00:17:21,880 --> 00:17:22,439
+Perhaps
+
+262
+00:17:22,840 --> 00:17:24,159
+we’ll meet again.
+
+263
+00:17:32,640 --> 00:17:33,399
+Little princes—
+
+264
+00:17:33,480 --> 00:17:34,519
+why are you back?
+
+265
+00:17:34,800 --> 00:17:35,800
+Chennan!
+
+266
+00:17:36,640 --> 00:17:38,239
+I’m still a princess of Eastern Chu.
+
+267
+00:17:38,680 --> 00:17:39,999
+With everything happening in Pingyang,
+
+268
+00:17:40,440 --> 00:17:41,679
+of course I came back.
+
+269
+00:17:43,640 --> 00:17:45,039
+Didn’t the old monster take it back?
+
+270
+00:17:45,360 --> 00:17:46,999
+You thief—how’d you steal it again?
+
+271
+00:17:47,560 --> 00:17:48,599
+You walking disaster!
+
+272
+00:17:48,800 --> 00:17:50,880
+If you don't want to embarrass yourself, behave.
+
+273
+00:17:52,953 --> 00:17:53,186
+Hmp
+
+274
+00:18:12,720 --> 00:18:14,119
+Hun Tian Great Demon King—
+
+275
+00:18:14,920 --> 00:18:16,359
+you broke your word!
+
+276
+00:18:22,077 --> 00:18:26,577
+[Church of Light: The Church of Light is the most orthodox religion of the Western Continent, worshipping the God of Light. Among the people, it is believed that one who holds the power of light is blessed by the deity of light. Under the supreme teachings of the Church of Light, the church is divided into five major branches, each responsible for different duties. The Bright Hall is the highest authority of the Church and presides over all matters of doctrine. Its Church Knights—known as the Knights of Radiance—are a corps of paladins blessed with sacred light. Fully armored in divine gear, they are unstoppable in battle, believed to be able to purify any darkness. The Church of Light’s ritual system is strict and ancient. Its core doctrine is to use the power of light to suppress all evil and eliminate all darkness. Rumor has it that the Holy Son of Light, bearing the purest divine power, was born from within the radiance.]
+
+277
+00:18:28,840 --> 00:18:30,919
+[Next Episode Preview]
+Just snatched the Heaven-Piercing Halberd from my disciple,
+
+278
+00:18:31,240 --> 00:18:32,359
+and here comes the master.
+
+279
+00:18:38,240 --> 00:18:39,279
+By order of my ancestral forefather:
+
+280
+00:18:39,920 --> 00:18:41,279
+anyone who forces entry into the palace
+
+281
+00:18:41,680 --> 00:18:42,680
+will be killed without mercy.
+
+282
+00:18:44,760 --> 00:18:46,919
+With this princess and Xiao Yu standing guard,
+
+283
+00:18:47,200 --> 00:18:48,479
+you won't set foot in the palace.
+
+284
+00:18:50,600 --> 00:18:51,600
+Oh?
+
+285
+00:18:51,720 --> 00:18:53,319
+Big words.
+
